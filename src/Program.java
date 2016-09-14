@@ -4,7 +4,7 @@ public class Program {
 		//this line displays a message
 		System.out.println("Hello World!");
 		System.out.println("Chamol al maasecha");
-		//this is for Elul
+		//Remember to focus on what Elul is about!
 	}
 
 }
